@@ -1,5 +1,5 @@
-# chart
-The first time i create chart!
+# Chart
+The first time I create chart!
 I'm using these technologies :
 - HTML5
 - Js
